@@ -1,5 +1,3 @@
-import struct
-
 pattern = "aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaa"
 
 num1   = "\xef\xbe\xad\xde\xef\xbe\xad\xde" #argument1
